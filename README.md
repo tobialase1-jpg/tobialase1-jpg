@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/tobi-alase-229b17294"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a data governance analyst with a profound interest in technology and proven dedication to solving complex problems.
+I am a data governance specialist with a profound interest in technology and proven dedication to solving complex problems.
 
 ## Objective
 
