@@ -10,7 +10,19 @@ Driven by a passion for securing enterprise information assets, I am transitioni
 
 ## Skills 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Conducting a Security Audit                   | Google Certificate 
+| Skill                                                            | Associated Project         |
+|------------------------------------------------------------------|----------------------------|
+| Conducting a Security Audit                                      | Google Certificate 
+|------------------------------------------------------------------|----------------------------|
+| Analyzing network structure and security                         | Google Certificate 
+|------------------------------------------------------------------|----------------------------|
+| Using Linux commands to manage file permissions                  | Google Certificate 
+|------------------------------------------------------------------|----------------------------|
+| Identifying vulnerabilities for a small business                 | Google Certificate 
+|------------------------------------------------------------------|----------------------------|
+| Documenting incidents with an incident handler’s journal         | Google Certificate 
+|------------------------------------------------------------------|----------------------------|
+| Importing and parsing a text file in a security-related scenario | Google Certificate 
+|------------------------------------------------------------------|----------------------------|
+
 
