@@ -23,6 +23,6 @@ Driven by a passion for securing enterprise information assets, I am transitioni
 | Documenting incidents with an incident handler’s journal         | Google Certificate 
 |------------------------------------------------------------------|----------------------------|
 | Importing and parsing a text file in a security-related scenario | Google Certificate 
-|------------------------------------------------------------------|----------------------------|
+
 
 
